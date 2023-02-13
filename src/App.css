@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+#tex{
+  /* margin:5px; */
+  /* text-align: center; */
+  font-family: 'Times New Roman', Times, serif;
+  /* border-radius: 3px; */
+  border:2px solid pink;
+  background-color:rgb(187, 8, 187);
+  color:white;
+}
+
+#pk{
+  font-family: cursive;
+}
+ 
