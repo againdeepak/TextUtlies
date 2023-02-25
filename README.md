@@ -1,14 +1,10 @@
-Getting Started with  Text Utiles App
+# Getting Started with  Text Utiles App
 ## `npm start`
 
-Test the Text Utiles App
+# Test the Text Utiles App
 ## `npm test`
 
 # Screenshort
-![Screenshot 1](https://user-images.githubusercontent.com/111180448/221345505-c31fff45-863f-4b5f-92e5-37aa9de77ece.png)
-
-#
-
 ![Screenshot 2](https://user-images.githubusercontent.com/111180448/221345511-e3ab536a-f830-4791-a52f-dcb9a2d7553c.png)
 
 # Technology Used
