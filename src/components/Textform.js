@@ -54,10 +54,10 @@ export default function Textform(props) {
                         <textarea className="form-control " placeholder='Enter your text here' value={text} onChange={hadnleOnChange} style={{ backgroundColor: props.mode === 'dark' ? 'grey' : 'white' }} rows="8" aria-label="With textarea "></textarea>
                     </div>
                     <div className=' container my-2'>
-                        <button className="btn btn-success mx-2 " onClick={dnleUpclick}>Lowercase</button>
-                        <button className="btn btn-primary " onClick={handleUpclick}>Uppercase</button>
-                        <button className="btn btn-dark mx-2 " onClick={handleClear}>Clear</button>
-                        <button className="btn btn-success mx-2 " onClick={copyToClipboard}>Copy</button>
+                        <button disabled={text.length===0} className="btn btn-success mx-1 my-1" onClick={dnleUpclick}>Lowercase</button>
+                        <button disabled={text.length===0} className="btn btn-primary mx-1 my-1" onClick={handleUpclick}>Uppercase</button>
+                        <button disabled={text.length===0} className="btn btn-dark mx-1 my-1" onClick={handleClear}>Clear</button>
+                        <button disabled={text.length===0} className="btn btn-success mx-1 my-1" onClick={copyToClipboard}>Copy</button>
                         {/* <button className="btn btn-success mx-2 " onClick={handleExtraSpace}>Remove Space</button> */}
 
 
@@ -67,8 +67,8 @@ export default function Textform(props) {
             </div>
             <div className="container" style={{ color: props.mode === 'dark' ? 'white' : 'black' }}>
                 <h2>Text Summary</h2>
-                <p>{text.split(" ").length} words and {text.length} characters</p>
-                <p>{0.008 * text.split(" ").length} Minutes for reading </p>
+                <p>{text.split(" ").filter((element)=>{return element.length!==0}).length} words and {text.length} characters</p>
+                <p>{0.008 * text.split(" ").filter((element)=>{return element.length!==0}).length} Minutes for reading </p>
                 <p>Preview</p>
                 <p>{text.length > 0 ? text : "Enter something to preview it here"}</p>
             </div>

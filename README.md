@@ -1,52 +1,33 @@
-# Getting Started with  Text Utiles App
-
-This project was bootstrapped with [Text Utiles](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-To run this Text Utiles 
-
+Getting Started with  Text Utiles App
 ### `npm start`
 
-Runs the app in the development mode.\ 
-Not Working Let you know after some time
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
+Test the Text Utiles App
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Screenshorts
+![Screenshot 1](https://user-images.githubusercontent.com/111180448/221345505-c31fff45-863f-4b5f-92e5-37aa9de77ece.png)
 
-### `npm run build`
+![Screenshot 2](https://user-images.githubusercontent.com/111180448/221345511-e3ab536a-f830-4791-a52f-dcb9a2d7553c.png)
 
-Builds the Text Utiles web app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Technology Used
+# JavaScript
+# React js
+# Bootstrap
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Features
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Lowercase to Uppercase
+# Uppercase to Lowercase
+# Remove Extra Space
+# Copy Text 
+# Clear Text
+# Time to Read word 
 
-### `npm run eject`
+In future features will be Added
+# Translation of Sentence
+# Text Style 
+# Text-Speech of Sentence
 
-
- 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
 ### Making a Progressive Web App
 
