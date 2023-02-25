@@ -1,32 +1,33 @@
 Getting Started with  Text Utiles App
-### `npm start`
+## `npm start`
 
 Test the Text Utiles App
-### `npm test`
+## `npm test`
 
-# Screenshorts
+# Screenshort
 ![Screenshot 1](https://user-images.githubusercontent.com/111180448/221345505-c31fff45-863f-4b5f-92e5-37aa9de77ece.png)
+
+#
 
 ![Screenshot 2](https://user-images.githubusercontent.com/111180448/221345511-e3ab536a-f830-4791-a52f-dcb9a2d7553c.png)
 
-Technology Used
-# JavaScript
-# React js
-# Bootstrap
+# Technology Used
+    JavaScript
+    React js
+    Bootstrap
 
-Features
+# Features
+    Lowercase to Uppercase
+    Uppercase to Lowercase
+    Remove Extra Space
+    Copy Text 
+    Clear Text
+    Time to Read word 
 
-# Lowercase to Uppercase
-# Uppercase to Lowercase
-# Remove Extra Space
-# Copy Text 
-# Clear Text
-# Time to Read word 
-
-In future features will be Added
-# Translation of Sentence
-# Text Style 
-# Text-Speech of Sentence
+# In future features will be Added
+    Translation of Sentence
+    Text Style 
+    Text-Speech of Sentence
 
 
 ### Making a Progressive Web App
