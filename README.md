@@ -1,34 +1,34 @@
 ### Deployed on ⤵️
 #### :link: https://textagainutiles.netlify.app
-## ↘️ Getting Started with  Text Utiles App
+### ↘️ Getting Started with  Text Utiles App
 #### `npm start`
 
 ### ↘️ Test the Text Utiles App
 #### `npm test`
 
-## 🎥 GIF of ```Text Utiles``` ⤵️
+### 🎥 GIF of ```Text Utiles``` ⤵️
    ![textutiless](https://user-images.githubusercontent.com/111180448/223946448-a2c414b3-0250-4c44-89a3-8982704acbd5.gif)
 
 
 ### ↘️ Technology Used
-   + JavaScript
-   + React js
-   + Bootstrap
+   + ***JavaScript***
+   + ***React js***
+   + ***Bootstrap***
 
 ### ↘️ Features
-   + Lowercase to Uppercase 
-   + Uppercase to Lowercase
-   + Remove Extra Space
-   + Copy Text 
-   + Clear Text
-   + Time to Read word 
+
+   + ***Lowercase to Uppercase***
+   + ***Uppercase to Lowercase***
+   + ***Remove Extra Space***
+   + ***Copy Text***
+   + ***Clear Text***
+   + ***Time to Read word***
 
 ### ↘️ In future features will be added
-   + Translation of Sentence
-   + Text Style 
-   + Text-Speech of Sentence
-
-
+   + ***Translation of Sentence***
+   + ***Text Style***
+   + ***Text-Speech of Sentence***
+ 
 ### :white_check_mark: References for making a Progressive Web App
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
